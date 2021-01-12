@@ -9,3 +9,5 @@ Url: https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&in
 Data Attributes: Name, Registration Number, Address, Correspondence Address, Validity, Contact Person
 
 Deliverables: Python Script for scraping and JSON file
+
+Note: main.py contains the python codes while data.json and data.txt contains the extracted information.
