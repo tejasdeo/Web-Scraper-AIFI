@@ -10,4 +10,4 @@ Data Attributes: Name, Registration Number, Address, Correspondence Address, Val
 
 Deliverables: Python Script for scraping and JSON file
 
-Note: main.py contains the python codes while data.json and data.txt contains the extracted information.
+Note: main.py contains the python code while data.json and data.txt contains the extracted information.
